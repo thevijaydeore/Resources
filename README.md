@@ -1,7 +1,5 @@
 ## 100% Tested n8n install on AWS EC2 Guide
-## Instruction Video
-Step by Step Guide
-https://youtu.be/-rcjJbUnaFQ
+
 ## 1. Requirements Checklist
 
 AWS Account ready
