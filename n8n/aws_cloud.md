@@ -194,24 +194,3 @@ image: n8nio/n8n:latest
 Start n8n with the New Image
 
 docker-compose up -d
-About
-Setup n8n on EC2
-
-Resources
- Readme
- Activity
-Stars
- 4 stars
-Watchers
- 1 watching
-Forks
- 2 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
-Ter
